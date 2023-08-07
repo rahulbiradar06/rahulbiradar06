@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Django developer
 ----------------
 
-I have been coding since my first year of engineering and it's been a year and now I am in the second year later I have found interest in the Django framework
+I have been coding since my first year of engineering and it's been a year and now I am in the third year later I have found interest in the Django framework
 
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [https://rahulbiradar.netlify.app/](http://rahulbiradar.netlify.app/)
