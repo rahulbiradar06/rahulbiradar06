@@ -1,11 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Biradar
 =====================================================================================================================================
-
-Django developer
-----------------
-
-I have been coding since my first year of engineering and it's been a year and now I am in the third year later I have found interest in the Django framework
-
 *   🌍  I'm based in Mumbai
 *   🖥️  See my portfolio at [https://rahulbiradarportfolio.netlify.app/](https://rahulbiradarportfolio.netlify.app/)
 *   ✉️  You can contact me at [rahulbiradar0601@gmail.com](mailto:rahulbiradar0601@gmail.com) 
