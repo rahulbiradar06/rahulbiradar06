@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://settle.ledgerpe.com/<br>🌱 I’m currently learning: Advanced smart contract security and the evolving regulatory landscape for VASP.<br>💬 Ask me about: Stablecoins, liquidity pools, and building compliant bridge solutions.
+🔭 I’m currently working on https://settle.ledgerpe.com/<br>💬 Ask me about: Stablecoins, liquidity pools, and building compliant bridge solutions.
 
 
 ## 🌐 Socials:
